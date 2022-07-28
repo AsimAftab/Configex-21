@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Configex-21
+- 👋 Hi, I’m @Asim Aftab
 - 👀 I’m interested in Technology/coding
 - 🌱 I’m currently learning Python/C#/C++
 - 💞️ I’m looking to collaborate on different projects that help to gain me knowledge
