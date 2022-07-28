@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asim Aftab
-- 👀 I’m interested in Technology/coding
-- 🌱 I’m currently learning Python/C#/C++
+- 👀 I’m interested in Technology/Coding
+- 🌱 I’m currently learning Python/C#/C++/Java/Flutter/Kotlin
 - 💞️ I’m looking to collaborate on different projects that help to gain me knowledge
 - 📫 How to reach me asimaftab3002@gmail.com
 
