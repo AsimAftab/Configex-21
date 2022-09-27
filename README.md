@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **C,Java**
+- 💬 Ask me about **C , Java**
 
 - 📫 How to reach me **asimaftab3002@gmail.com**
 
