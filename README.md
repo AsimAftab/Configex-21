@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Shishir</h1>
+<h1 align="center">Hi 👋, I'm Asim</h1>
 <h3 align="center">A passionate programmer from Nepal.</h3>
 
 - 🌱 I’m currently learning **Kotlin**
