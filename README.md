@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Asim Aftab</h1>
-<h3 align="center">A passionate Software developer from Nepal currently living in Bangalore,India.</h3>
+<h3 align="center">A passionate Software developer from Nepal currently living in Bangalore, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asimaftab&label=Profile%20views&color=0e75b6&style=flat" alt="asimaftab" /> </p>
 
-- 🌱 I’m currently learning **Kotlin,Java,Flutter**
+- 🌱 I’m currently learning **Java,Kotlin,Flutter**
 
-- 💬 Ask me about **C,HTML,CSS,Kotlin,Java**
+- 💬 Ask me about **C,C++,Kotlin,Java,Android App Development**
 
 - 📫 How to reach me **asimaftab303@gmail.com**
 
-- 📄 Know about my experiences [Worked as intern at Teachnook](Dec 2022-Feb 2023)
+- 📄 Know about my experiences [Worked as an intern at Teachnook](Dec 2022-Feb 2023)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
