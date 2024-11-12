@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **asimaftab303@gmail.com**
 
-- 📄 Know about my experiences [Worked as an intern at Teachnook](Dec 2022-Feb 2023)
+- 📄 Know about my experiences [Worked as an Flutter intern at Kalodhunga Creations](April 2024-July 2024)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
